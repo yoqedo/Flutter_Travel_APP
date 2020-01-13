@@ -1,0 +1,4 @@
+#Mon Jan 13 17:04:02 CET 2020
+base.0=D\:\\Coding und Design\\Github\\flutter_travel_app\\flutter_travel_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
